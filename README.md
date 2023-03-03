@@ -12,7 +12,7 @@ Soy un Técnico de sistemas informaticos TIC con experiencia en el sector desde 
 # 👅 Idiomas
 | Idioma  | Nivel      |
 |---------|------------|
-| Catalan | Nativo     |
+| Catalán | Nativo     |
 | Español | Nativo     |
 | Inglés  | Intermedio |
 | Francés | Intermedio |
