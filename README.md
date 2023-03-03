@@ -4,11 +4,11 @@ Soy un Técnico de sistemas informaticos TIC con experiencia en el sector desde 
 - Bachillerato Profesional en Sistemas Informáticos y Redes
 - Formación Profesional en Microinformática y Redes
 # 🔨 Habilidades
-- Me llamo Ralph
+- [Yo me llamo Ralph](https://www.youtube.com/watch?v=i773CH070m8)
 # ❓ Hobbies
 - Simracing
 - [F1](https://www.formula1.com/)
-- MotoGP
+- [MotoGP](https://www.motogp.com/)
 # 👅 Idiomas
 | Idioma  | Nivel      |
 |---------|------------|
@@ -16,3 +16,4 @@ Soy un Técnico de sistemas informaticos TIC con experiencia en el sector desde 
 | Español | Nativo     |
 | Inglés  | Intermedio |
 | Francés | Intermedio |
+
