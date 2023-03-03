@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**KUK15/KUK15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola soy Xavier Ruiz! 👋
+Soy un Técnico de sistemas informaticos TIC con experiencia en el sector desde 2011.
+# 👨‍🏫 Formación 
+- Bachillerato Profesional en Sistemas Informáticos y Redes
+- Formación Profesional en Microinformática y Redes
+# 🔨 Habilidades
+- Me llamo Ralph
+# ❓ Hobbies
+- Simracing
+- F1
+- MotoGP
+# 👅 Idiomas
+| Idioma  | Nivel      |
+|---------|------------|
+| Catalan | Nativo     |
+| Español | Nativo     |
+| Inglés  | Intermedio |
+| Francés | Intermedio |
