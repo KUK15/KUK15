@@ -7,7 +7,7 @@ Soy un Técnico de sistemas informaticos TIC con experiencia en el sector desde 
 - Me llamo Ralph
 # ❓ Hobbies
 - Simracing
-- F1
+- [F1](https://www.formula1.com/)
 - MotoGP
 # 👅 Idiomas
 | Idioma  | Nivel      |
